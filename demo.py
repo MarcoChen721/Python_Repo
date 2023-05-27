@@ -9,3 +9,4 @@ a = fun(1, 2)
 print(a)
 
 print('hello Git')
+print('hello Git')
